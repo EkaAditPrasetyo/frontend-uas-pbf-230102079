@@ -1,5 +1,5 @@
 
-## UAS PBF Eka Adit Prasetyo (230102079) TI 2D
+# UAS PBF Eka Adit Prasetyo (230102079) TI 2D
 
 Nama : Eka Adit Prasetyo (7)
 
@@ -7,7 +7,7 @@ NPM : 230102079
 
 Kelas : TI 2D
 
-## Cara Instal atau Membuat Project pada Laravel atau CodeIgniter
+# Cara Instal atau Membuat Project pada Laravel atau CodeIgniter
 Saya menggunakan Laravel (v10.3.3)
 - Masuk ke folder yang untuk menyimpan folder projek, Kemudian masuk ke terminal cmd
 - Untuk membuat project Code Igniter menggunakan cara seperti ini : composer create-project codeigniter4/appstarter backend_rumahsakit[NamaProjek]
@@ -15,7 +15,7 @@ Saya menggunakan Laravel (v10.3.3)
 - Jika sudah terunduh semua kemudian masuk dengan cara : cd [Namaprojek] di terminal cmd
 - Setelah masuk folder yang telah dibuat maka tinggal modifikasi
 
-## Penerapan Database
+# Penerapan Database
 ``` sh
 CREATE DATABASE db_rumahsakit_230102079;
 USE db_rumahsakit_230102079;
@@ -37,7 +37,7 @@ CREATE TABLE obat (
 );
 ```
 
-## Struktur Proyek
+# Struktur Proyek
 Ini adalah aplikasi Laravel standar yang memiliki struktur folder sebagai berikut:
 
 - `app/` - Berisi file logic aplikasi seperti controller dan model.
@@ -274,7 +274,7 @@ Route::delete('/pasien/{id}', [PasienController::class, 'destroy'])->name('pasie
 
 ```
   
-## Fitur yang Tersedia
+# Fitur yang Tersedia
 1. **Manajemen Obat**
    - Melihat daftar obat
    - Menambahkan obat baru
@@ -289,7 +289,7 @@ Route::delete('/pasien/{id}', [PasienController::class, 'destroy'])->name('pasie
 
 3. **Adanya fitur search untuk mencari data obat/data pasien**
 
-## Menjalankan Proyek
+# Menjalankan Proyek
 1. Pada menu terminal di VsCode
    ``` sh
    php artisan serve
@@ -307,3 +307,26 @@ Route::delete('/pasien/{id}', [PasienController::class, 'destroy'])->name('pasie
 5. 📌 Catatan Tambahan
 Project ini mengandalkan backend API yang sedang berjalan di http://localhost:8080.
 Pastikan backend API aktif agar data bisa ditarik secara dinamis melalui HTTP Client Laravel.
+
+# Tampilan Antarmuka Sistem E-Apotek
+## 1. Obat
+   - Dashboard obat
+     
+     ![Screenshot 2025-06-20 123051](https://github.com/user-attachments/assets/57f56850-6175-4c08-8ee4-06a58b9fe0ff)
+
+    - Form tambah obat
+    
+      ![Screenshot 2025-06-20 123140](https://github.com/user-attachments/assets/8941b298-6ae1-4867-afd8-e8c5d8f77bfc)
+
+    - Form edit obat
+      
+      ![Screenshot 2025-06-20 123158](https://github.com/user-attachments/assets/2d85b7fb-77e0-40f1-a81f-fae571b3e6cb)
+
+    - Hapus obat
+      
+      ![Screenshot 2025-06-20 123222](https://github.com/user-attachments/assets/afeefcc7-c015-4427-9471-f9e806dd938c)
+
+    - Penggunaan fitur pencarian data obat
+      
+      ![Screenshot 2025-06-20 123241](https://github.com/user-attachments/assets/c6e99d98-dd1e-47c9-8156-252696887903)
+
