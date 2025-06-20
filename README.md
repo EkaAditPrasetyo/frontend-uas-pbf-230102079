@@ -7,11 +7,5 @@ NPM : 230102079
 
 Kelas : TI 2D
 
-
-
-
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
+## 1. Cara Instal atau Membuat Project pada Laravel atau CodeIgniter
+- 
