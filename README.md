@@ -330,3 +330,24 @@ Pastikan backend API aktif agar data bisa ditarik secara dinamis melalui HTTP Cl
       
       ![Screenshot 2025-06-20 123241](https://github.com/user-attachments/assets/c6e99d98-dd1e-47c9-8156-252696887903)
 
+## 2. Pasien
+   - Dashboard pasien
+     
+     ![Screenshot 2025-06-20 123110](https://github.com/user-attachments/assets/215822b1-d92f-433e-8bbc-d178279784c8)
+
+- Form tambah pasien
+  
+  ![Screenshot 2025-06-20 124548](https://github.com/user-attachments/assets/043b1ee1-5efe-4d4d-bca1-a8c986206e77)
+
+ - Form edit pasien
+   
+   ![Screenshot 2025-06-20 124605](https://github.com/user-attachments/assets/f1514861-a9f1-4e5d-9bdb-74223e78b364)
+
+- Hapus pasien
+  
+![Screenshot 2025-06-20 124618](https://github.com/user-attachments/assets/3ba6a626-67d2-480b-88ab-6bdff6148d9a)
+
+- Penggunaan fitur pencarian data pasien
+  
+  ![Screenshot 2025-06-20 124636](https://github.com/user-attachments/assets/456e966b-c89d-48c2-9321-47f972124f2e)
+
