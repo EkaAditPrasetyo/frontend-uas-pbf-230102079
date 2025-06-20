@@ -360,3 +360,6 @@ Pastikan backend API aktif agar data bisa ditarik secara dinamis melalui HTTP Cl
   
   ![Screenshot 2025-06-20 124636](https://github.com/user-attachments/assets/456e966b-c89d-48c2-9321-47f972124f2e)
 
+
+## 👨‍💻 Dibuat oleh
+Eka Adit Prasetyo, Praktikum Pemrograman Berbasis Framework – Genap 2024/2025 Politeknik Negeri Cilacap
