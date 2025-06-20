@@ -314,7 +314,7 @@ Pastikan backend API aktif agar data bisa ditarik secara dinamis melalui HTTP Cl
      
      ![Screenshot 2025-06-20 123051](https://github.com/user-attachments/assets/57f56850-6175-4c08-8ee4-06a58b9fe0ff)
 
-    - Form tambah obat
+- Form tambah obat
     
       ![Screenshot 2025-06-20 123140](https://github.com/user-attachments/assets/8941b298-6ae1-4867-afd8-e8c5d8f77bfc)
 
