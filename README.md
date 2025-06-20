@@ -316,7 +316,7 @@ Pastikan backend API aktif agar data bisa ditarik secara dinamis melalui HTTP Cl
 
 - Form tambah obat
     
-  ![Screenshot 2025-06-20 123140](https://github.com/user-attachments/assets/8941b298-6ae1-4867-afd8-e8c5d8f77bfc)
+     ![Screenshot 2025-06-20 123140](https://github.com/user-attachments/assets/8941b298-6ae1-4867-afd8-e8c5d8f77bfc)
 
     - Form edit obat
       
