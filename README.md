@@ -9,11 +9,20 @@ Kelas : TI 2D
 
 # Cara Instal atau Membuat Project pada Laravel atau CodeIgniter
 Saya menggunakan Laravel (v10.3.3)
-- Masuk ke folder yang untuk menyimpan folder projek, Kemudian masuk ke terminal cmd
-- Untuk membuat project Code Igniter menggunakan cara seperti ini : composer create-project codeigniter4/appstarter backend_rumahsakit[NamaProjek]
-- Untuk membuat project Laravel menggunakan cara seperti ini : composer create-project laravel/laravel frontend-uas-230102079[NamaProjek]
-- Jika sudah terunduh semua kemudian masuk dengan cara : cd [Namaprojek] di terminal cmd
-- Setelah masuk folder yang telah dibuat maka tinggal modifikasi
+- Masuk ke folder yang untuk menyimpan folder projek contoh : laragon/www, kemudian masuk ke terminal cmd
+- Untuk membuat project Code Igniter menggunakan cara seperti ini :
+  ```sh
+  composer create-project codeigniter4/appstarter backend_rumahsakit[NamaProyek]
+  ```
+- Untuk membuat project Laravel menggunakan cara seperti ini :
+  ```sh
+  composer create-project laravel/laravel frontend-uas-230102079[NamaProyek]
+  ```
+- Jika sudah terunduh semua data kemudian masuk dengan cara berikut di terminal cmd
+  ```sh
+  cd [NamaProyek]
+  ```
+- Setelah masuk folder yang telah dibuat maka tinggal modifikasi untuk dibagian controller, views, dan routes
 
 # Penerapan Database
 ``` sh
