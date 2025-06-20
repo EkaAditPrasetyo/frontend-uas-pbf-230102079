@@ -1,5 +1,5 @@
 
-## UAS PBF Frontend Eka Adit Prasetyo (230102079) TI 2D
+## UAS PBF Eka Adit Prasetyo (230102079) TI 2D
 
 Nama : Eka Adit Prasetyo (7)
 
@@ -303,3 +303,7 @@ Route::delete('/pasien/{id}', [PasienController::class, 'destroy'])->name('pasie
 4. User dapat untuk CRUD dalam sistem tersebut dan terdapat fitur pencarian untuk mencari data.
    - Jika fitur pencarian di dashboard obat itu berdasarkan nama_obat dan atau kategori
    - Jika fitur pencarian di dashboard pasien itu berdasarkan nama dan atau jenis_kelamin
+     
+5. 📌 Catatan Tambahan
+Project ini mengandalkan backend API yang sedang berjalan di http://localhost:8080.
+Pastikan backend API aktif agar data bisa ditarik secara dinamis melalui HTTP Client Laravel.
